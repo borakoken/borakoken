@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @borakoken
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in Flutter and Unity
+- 🌱 I’m currently learning Flutter and Unity
+- 💞️ I’m looking to collaborate on Flutter and Unity
 - 📫 How to reach me ...
 
 <!---
